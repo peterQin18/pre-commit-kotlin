@@ -5,6 +5,7 @@
   language: script
   files: \.kt(s)?$
 
+
 - id: mvn-validate
   name: mvn validate
   description: Validates the project is correct and all necessary information is available
